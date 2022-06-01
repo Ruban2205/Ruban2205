@@ -4,7 +4,9 @@
 Here are some ideas to get you started:
 -->
 
-# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Ruban Gino Singh
+<!-- # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">, I'm Ruban Gino Singh -->
+
+# Hello👋, I'm Ruban Gino Singh
 
 ## About me 👀
 
