@@ -107,10 +107,10 @@ Here are some ideas to get you started:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruban2205&show_icons=true)](https://github.com/Ruban2205)
 
-[![GitHub Profile_Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ruban2205&theme=vue)](https://github.com/Ruban2205)
-
 <!-- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruban2205)](https://github.com/Ruban2205) -->
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruban2205&layout=compact)](https://github.com/Ruban2205/github-readme-stats)
+
+[![GitHub Profile_Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ruban2205&theme=vue)](https://github.com/Ruban2205)
 
 <hr/>
 
