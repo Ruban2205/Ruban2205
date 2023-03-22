@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently a Student professional
 - 🎯 Tech Enthusiast | Full stact developer | Freelancer
-- 🌱 I’m currently Learning **Flutter and Dart**
+- 🌱 I’m currently Learning **React JS and React Native**
 - 💖 Open source contributor
 - 👯 I’m looking to collaborate on Interesting projects
 - 💬 Ask me about anything at [info@rubangino.in](https://mailto:info@rubangino.in/)
