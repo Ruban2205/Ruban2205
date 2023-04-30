@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 
 <hr/>
 
-### Support Me By Starring ⭐ Some Of My Repositories
+### Star ⭐ Some Of My Repositories for Future use 😉
 
 Click below to gift a book to me.
 
