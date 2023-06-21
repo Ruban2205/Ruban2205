@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ## About me 👀
 
 - 🔭 I’m currently a Student professional
-- 🎯 Tech Enthusiast | Full stact developer | Freelancer
+- 🎯 Designer | Developer | Tech Enthusiast | Freelancer
 - 🌱 Currently Learning **React Native**
 - 💖 Open source contributor
 - 👯 I’m looking to collaborate on Interesting projects
