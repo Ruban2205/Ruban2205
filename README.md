@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently a Student professional
 - 🎯 Designer | Developer | Tech Enthusiast | Freelancer
-- 🌱 Currently Learning **React Native**
+- 🌱 Currently Working on **Machine Learning and Data Science**
 - 💖 Open source contributor
 - 👯 I’m looking to collaborate on Interesting projects
 - 💬 Ask me about anything at [info@rubangino.in](https://mailto:info@rubangino.in/)
