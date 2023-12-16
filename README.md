@@ -111,12 +111,14 @@ Here are some ideas to get you started:
 
 [![GitHub followers](https://img.shields.io/github/followers/Ruban2205.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Ruban2205?tab=followers)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruban2205&show_icons=true)](https://github.com/Ruban2205)
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruban2205&show_icons=true)](https://github.com/Ruban2205) -->
+[![Ruban's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruban2205&show_icons=true&theme=tokyonight)](https://github.com/ruban2205/github-readme-stats)
 
 <!-- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruban2205)](https://github.com/Ruban2205) -->
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruban2205&layout=compact)](https://github.com/Ruban2205/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruban2205&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Ruban2205/github-readme-stats)
 
 [![GitHub Profile_Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ruban2205&theme=vue)](https://github.com/Ruban2205)
+
 
 <hr/>
 
