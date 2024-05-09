@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything at [info@rubangino.in](https://mailto:info@rubangino.in/)
 - 📫 How to reach me: [www.rubangino.in](https://www.rubangino.in/)
 <!-- - 😄 He/Him -->
-<!-- - 🤔 I’m looking for help in **Learning Advancements in AI Algorithms** -->
+- 🤔 I’m looking for help in **Learning Advancements in AI Algorithms**
 <!-- - ⚡ Fun fact: ... -->
 
 <hr/>
