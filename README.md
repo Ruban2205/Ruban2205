@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 🌱 Currently Working on **Computer Vision and Generative AI**
 - 💖 Open source contributor
 - 👯 I’m looking to collaborate on Interesting projects
-- 💬 Ask me about anything at [info@rubangino.in](https://mailto:info@rubangino.ca/)
-- 📫 How to reach me: [www.rubangino.in](https://www.rubangino.ca/)
+- 💬 Ask me about anything at [info@rubangino.ca](https://mailto:info@rubangino.ca/)
+- 📫 How to reach me: [www.rubangino.ca](https://www.rubangino.ca/)
 <!-- - 😄 He/Him -->
 <!-- 🤔 I’m looking for help in **Learning Advancements in AI Algorithms** -->
 <!-- - ⚡ Fun fact: ... -->
