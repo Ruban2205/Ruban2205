@@ -1,139 +1,113 @@
-<!--
-**Ruban2205/Ruban2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# AI Engineer | AI Systems Builder
 
-Here are some ideas to get you started:
--->
+"I design and build AI-powered systems that transform real-world workflows into intelligent, scalable solutions."
 
-<!-- # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">, I'm Ruban Gino Singh -->
+---
 
-# Hello👋, I'm Ruban Gino Singh
+## 👋 About Me
 
-## About me 👀
+I am a professional **AI Engineer** and **Machine Learning Engineer** specializing in **Generative AI** and **Full-stack AI Systems**. I focus on architecting production-ready solutions that integrate advanced AI models into scalable enterprise workflows.
 
-- 🔭 I’m currently a Student professional
-- 🎯 Designer | Developer | Tech Enthusiast | Freelancer
-- 🌱 Currently Working on **Computer Vision and Generative AI**
-- 💖 Open source contributor
-- 👯 I’m looking to collaborate on Interesting projects
-- 💬 Ask me about anything at [info@rubangino.ca](https://mailto:info@rubangino.ca/)
-- 📫 How to reach me: [www.rubangino.ca](https://www.rubangino.ca/)
-<!-- - 😄 He/Him -->
-<!-- 🤔 I’m looking for help in **Learning Advancements in AI Algorithms** -->
-<!-- - ⚡ Fun fact: ... -->
+- 🔭 **Expertise**: RAG Pipelines, Autonomous AI Agents, and Computer Vision.
+- 🚀 **Portfolio**: [www.rubangino.ca](https://www.rubangino.ca)
+- 🧠 **Focus**: Building the bridge between cutting-edge AI research and business impact.
+- 💬 **Ask me about**: Scaling AI systems, automation, and full-stack AI development.
 
-<hr/>
+---
 
-## Social Networks 🤵
+## 🚀 What I Build
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ruban.gino.22)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ruban_gino_/)
-[![Twitter](https://img.shields.io/badge/X.com%20(Twitter)%20-black.svg?style=for-the-badge&logo=X&colorB=555)](https://twitter.com/Rubangino)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruban-gino-singh/)
+- **Generative AI Systems**: Custom LLM integrations and fine-tuned models for specific domains.
+- **RAG Pipelines**: Intelligent retrieval systems using vector databases (FAISS, Pinecone).
+- **Automation & AI Agents**: Multi-agent workflows that handle complex, multi-step tasks autonomously.
+- **SaaS Development**: Full-stack infrastructure to bring AI-powered products to global users.
 
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rubangino)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rubanginosingh)
-[![GooglePlay](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7866219812027306360)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruban2205)
-[![Github_Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.rubangino.in/)
+---
 
-[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13977245/ruban-gino-singh)
-[![Stack Exchange](https://img.shields.io/badge/StackExchange-1E5397?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://stackexchange.com/users/19136337/ruban-gino-singh)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/rubanginosingh)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://rubangino.hashnode.dev/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rubanginosingh.medium.com/)
+## 🧠 Tech Stack & Expertise
 
-[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/rubangino)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/rubangino)
+### AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)
 
-## Languages and Tools 🖥️
+### Backend & Systems
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-41454A?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-<!-- Programming Languages -->
-[![C_Lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Ruban2205)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Ruban2205)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Ruban2205)
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/Ruban2205)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/Ruban2205)
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!-- Front End Development --> 
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Ruban2205)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Ruban2205)
+---
 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Ruban2205)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/Ruban2205)
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/Ruban2205)
-[![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://github.com/Ruban2205)
-[![Material Design](https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white)](https://github.com/Ruban2205)
+## 🔬 Featured Projects
 
-[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/Ruban2205)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/Ruban2205)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Ruban2205)
-[![Java_Swing_GUI](https://img.shields.io/badge/Java-Swing%20GUI-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Ruban2205)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Ruban2205)
+### 🤖 AI RAG Chatbot System
+**Intelligent agentic chatbot for structured knowledge retrieval.**
+- **Problem**: LLMs lack real-time context and hallucinate on proprietary data.
+- **Solution**: Implemented a Retrieval-Augmented Generation (RAG) system using LangChain and FAISS for sub-second retrieval.
+- **Impact**: Achieved 95%+ accuracy in documentation retrieval for enterprise support.
+- **Tech**: LangChain, FAISS, OpenAI, Python.
 
+### ⚙️ AI Business Automation Engine
+**End-to-end AI workflow automation system for real-world business operations**
 
+- **Problem**: Business workflows are manual, fragmented, and inefficient across tools (emails, forms, CRM, reports).
+- **Solution**: Built an AI-powered automation engine using n8n that connects APIs, processes data, and triggers intelligent workflows with LLM-based decision making.
+- **Tech Stack**: n8n, OpenAI API, Webhooks, REST APIs, Node.js, Google Sheets / CRM integrations.
+- **Impact**: Automated multi-step workflows, reduced manual operations by 60%+, and enabled real-time AI-driven decision automation.
 
-<!-- Backend Development --> 
-[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/Ruban2205)
-[![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/Ruban2205)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/Ruban2205)
-[![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/Ruban2205)
+### 📊 AI Automation / Dashboard System
+**End-to-end automation pipelines and real-time analytics dashboards.**
+- **Problem**: Fragmented business workflows with no centralized monitoring for AI agents.
+- **Solution**: Built ETL pipelines to sync AI agent outputs with interactive Power BI / Looker Studio dashboards.
+- **Impact**: Improved operational efficiency by 40% through automated reporting.
+- **Tech**: Node.js, Power BI, Python, Looker Studio.
 
+---
 
-<!-- Database --> 
-[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/Ruban2205)
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/Ruban2205)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://github.com/Ruban2205)
+## 📊 GitHub Performance
 
-<!-- VCS --> 
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Ruban2205)
-[![GitLab](	https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Ruban2205)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruban2205)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Ruban2205?label=GitHub%20Followers&style=for-the-badge&logo=github&color=3776AB" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Ruban2205&color=3776AB&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ruban2205&theme=transparent&hide_border=true&background=00000000" alt="GitHub Streak" />
+</p>
 
-<!-- Others --> 
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)](https://github.com/Ruban2205)
+---
 
+## ⚡ Engineering Philosophy
 
+> "I don't just build models — I build intelligent systems that integrate, scale, and create measurable impact. My goal is to transform complex challenges into seamless, automated solutions."
 
-## Design Tools 🖼️
+---
 
-[![Adobe PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://github.com/Ruban2205)
-[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://github.com/Ruban2205)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/Ruban2205)
+## 🌐 Connect
 
-## Get in Touch ☎️--📞
+<p align="center">
+  <a href="https://www.rubangino.ca"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ruban-gino-singh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:info@rubangino.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubangino.in/)
-[![E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@rubangino.in)
-[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/ruban.gino.22)
+---
 
-<hr/>
+<p align="center">
+  <b>Building the Future, One Intelligent System at a Time.</b>
+</p>
 
-## Statistics 🗒️
-
-![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=Ruban2205&repo=github-visitors-badge&countColor=%237B1E7A)
-
-[![GitHub followers](https://img.shields.io/github/followers/Ruban2205.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Ruban2205?tab=followers)
-
-<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruban2205&show_icons=true)](https://github.com/Ruban2205) -->
-[![Ruban's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruban2205&show_icons=true&theme=vue)](https://github.com/ruban2205/github-readme-stats)
-
-<!-- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruban2205)](https://github.com/Ruban2205) -->
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruban2205&layout=compact&show_icons=true&theme=vue)](https://github.com/Ruban2205/github-readme-stats)
-
-[![GitHub Profile_Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ruban2205&theme=vue)](https://github.com/Ruban2205)
-
-
-<hr/>
-
-### Star ⭐ Some Of My Repositories for Future use 😉
-
-Click below to gift a book to me.
-
-[![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-book&logoColor=black)
-](https://bit.ly/3M5jxLd)
-
-**Thank You!!**
-
-<hr/>
